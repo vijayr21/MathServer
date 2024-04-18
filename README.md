@@ -28,7 +28,6 @@ Create a HTML file to implement form based input and output.
 
 ### Step 6:
 Publish the website in the given URL.
-
 ## PROGRAM :
 ```
 <!DOCTYPE html>
@@ -92,12 +91,8 @@ Publish the website in the given URL.
 
 ![Screenshot 2024-04-18 092829](https://github.com/vijayr21/MathServer/assets/149347607/eda2b40d-a0e3-4b8c-8502-af38773bad66)
 
-
-
 ## HOMEPAGE:
 ![Screenshot 2024-04-18 092229](https://github.com/vijayr21/MathServer/assets/149347607/41930dbf-1d64-4819-923e-da2e70ae1b27)
-
-
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
